@@ -1,0 +1,5 @@
+This File constains the K Means code that I worked on and explain about the algorithm.
+  - K-means clustering is one of the simplest and popular unsupervised machine learning algorithms. 
+  - To achieve this objective, K-means looks for a fixed number (k) of clusters in a dataset. 
+  - A cluster refers to a collection of data points aggregated together because of certain similarities.
+  - Basically, In the process of clustering, one can identify which observations are alike and classify them significantly in that manner. 
