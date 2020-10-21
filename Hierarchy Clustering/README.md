@@ -12,7 +12,9 @@ This file explains about the Hierarchial Clustering Algorithm and contains the s
   
   ### Steps involved in Divisive Hierarchical clustering
     Step 1. Include all the data points in a single large cluster.
+    
     Step 2.  Divide the most heterogeneous cluster into two.
+    
     Step 3. Iterate the process until all data points are in their own cluster.
   
   * ### <B> Agglomerative Approach </B> <br>
@@ -22,7 +24,9 @@ This file explains about the Hierarchial Clustering Algorithm and contains the s
   
    ### Steps involved in Agglomerative Hierarchical clustering
     Step 1. Create n clusters, one for each data points.
+    
     Step 2. Compute the distance proximity matrix. 
+    
     Step 3. Repeat the following steps 
             - Merge the two closest clusters.
             - Update the matrix
