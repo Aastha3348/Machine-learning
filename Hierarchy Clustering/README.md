@@ -30,6 +30,7 @@ This file explains about the Hierarchial Clustering Algorithm and contains the s
     Step 3. Repeat the following steps 
             - Merge the two closest clusters.
             - Update the matrix
+    
     Step 4. Stop if only one cluster is remaining.
     
 ## Distance between Clusters
